@@ -1,0 +1,14 @@
+# Preface {.unnumbered}
+
+This is (intended to be) the book I wish I had when I started managing a social science laboratory.  My goal is develop it in the open.  I'll be posting new additions to the book hear as soon as they are in something approaching a reasonable state.  And the entire book will be to github for anyone to see and comment on.  
+
+## About Me
+
+I am currently Director of Data and Analysis at the University of Chicago's Crime Lab and Education Lab.
+
+## Improve this book
+This book is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Feel free to redistribute and remix its contents for non-comercial purposes.  I encourage anyone interested to suggest edits or additions. You'll find edit buttons on each page and you can submit github issues.
+
+<div class="text-center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+</div>

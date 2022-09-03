@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "The Lab Book"
+  author: "Martin Barron"
+  date: last-modified
+  search: true
+  repo-url: https://github.com/martinlbarron/Computational-Research-Book
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  chapters:
+    - index.qmd
+    - outline.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: sandstone
+    code-copy: true
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: cover.png
+
+

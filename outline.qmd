@@ -1,0 +1,25 @@
+---
+title: Tentative Book Outline
+---
+
+- Infrastructure
+    - servers
+    - laptops
+    - cloud stuff
+    - security
+
+- People
+    - hiring
+    - retaining
+    - managing
+    - professional development
+    - worklife balance
+    - firing
+
+- quality assurance
+    - code review
+    - 
+
+- Coding principles
+    - Git
+    - 
